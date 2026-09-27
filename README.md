@@ -366,3 +366,7 @@ I:\word_tow
 ```
 
 项目笔记保存在项目自身的 `notes.md`，敏感词库保存在程序目录的 `sensitive_words.txt`，二者均为普通 UTF-8 本地文件，不上传云端。
+
+## 许可证
+
+本项目原创源码和文档采用 MIT License，详见 `LICENSE`。第三方依赖、参考项目和内置数据继续适用各自原有许可证，详见 `THIRD_PARTY_NOTICES.md` 以及 `third_party/` 目录。
